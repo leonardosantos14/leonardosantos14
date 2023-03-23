@@ -1,4 +1,4 @@
-### About Me 👋 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
+### About Me 👋 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="linkedin logo" style="max-width: 100%;">
 
 - ⚡Tenho 19 anos e me graduando em Computação em Nuvem e cursando Análise e Desenvolvimento de Sistemas, concluindo em dezembro/2023.
 - 🔭 
