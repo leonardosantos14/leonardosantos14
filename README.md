@@ -4,6 +4,6 @@
 - 🔭 
 
 ### 💻 My stack
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" height="40" width="32" alt="C++">
 
 
