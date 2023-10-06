@@ -1,6 +1,6 @@
 ### About Me 👋
 
-- ⚡Tenho 19 anos e me graduando em Computação em Nuvem e cursando Análise e Desenvolvimento de Sistemas, concluindo em dezembro/2023 e abril/2024, respectivamente.
+- ⚡Tenho 20 anos e atualmente estou me graduando em Computação em Nuvem, previsão de ser concluído em junho/2024.
 - 🔭 
 
 ### 💻 My stack:
