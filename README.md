@@ -1,6 +1,6 @@
 ### About Me 👋
 
-- ⚡Tenho 21 anos e atualmente estou me graduando em Computação em Nuvem, previsão de ser concluído em junho/2025.
+- ⚡Tenho 21 anos e atualmente estou me graduando em Computação em Nuvem, cursando o 5° período.
 - 🔭 
 
 ### 💻 My stack:
